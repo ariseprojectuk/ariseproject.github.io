@@ -1,6 +1,6 @@
-baseURL = "https://www.makerarts.co.uk/"
+baseURL = "https://alexmakerarts.github.io/angelraywedding.github.io/"
 languageCode = "en"
-title = "Maker Arts CIC"
+title = "Angel and Ray Wedding"
 
 [params]
   author = "makerarts"

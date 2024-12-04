@@ -1,0 +1,8 @@
+baseURL = "www.angelraywedding.com"
+languageCode = "en"
+title = "Angel and Ray Wedding"
+
+[params]
+  author = "makerarts"
+
+disableKinds = ["taxonomy"]

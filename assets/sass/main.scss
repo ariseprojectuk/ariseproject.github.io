@@ -662,9 +662,10 @@ max-height: 100px;
 // Media queries
 
 /* Phone menu */
-@media(max-width:450px){
-  .img {
-    max-width: 80%;
+@media(max-width:500px){
+  .img_per {
+    width: 400px;
+    height: auto;
   }
   
   footer {

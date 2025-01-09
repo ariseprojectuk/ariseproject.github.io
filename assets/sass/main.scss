@@ -694,18 +694,20 @@ max-height: 100px;
 /* Phone menu */
 @media(max-width:500px){
   .img_per {
-    width: 400px;
+    width: 350px;
     height: auto;
     margin-left: auto;
     margin-right: auto;
   }
   
   .google_form {
-    width: 400px;
+    width: 350px;
+    height: 800px;
   }
 
   .hotel_link_div {
     display: flex;
+    margin-left: -10px;
   }
 
   footer {
@@ -879,6 +881,7 @@ max-height: 100px;
 
 /* Tablet menu */
 @media(max-width:1240px){
+
   footer {
     position: relative;
     padding: 0;

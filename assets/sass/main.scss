@@ -43,7 +43,6 @@ p {
 
 a, a:visited {
   text-decoration: none;
-  color: $link-bl;
 }
 
 a:hover {
@@ -69,7 +68,7 @@ a:hover {
   /*h1 {background-color: #c9c8c8;} 
   h1 {padding: 40px;}
   h1 {border-radius: 20px;}*/
-  h1 {border-bottom: 2px solid #1C1C1C;}
+  h2 {border-top: 2px solid #b5830a; padding-top: 20px;}
 }
 
 .employ {
@@ -120,6 +119,13 @@ a:hover {
   box-sizing: border-box;
   max-width: 100%;
   height: auto;
+}
+
+.img_per {
+  width: 1000px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .contact-image {
@@ -192,6 +198,30 @@ a:hover {
   &_phone {
     width: 450px;
   }
+  &_left {
+    flex: 50%;
+  }
+  &_right {
+    flex: 50%;
+  }
+}
+
+.google_form {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hotel_link {
+  border-style: ridge; 
+  border-color: #b5830a;
+  border-width: 5px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.hotel_link_div {
+  display: block;
+  margin: 20px;
 }
 
 //Modal
@@ -670,6 +700,14 @@ max-height: 100px;
     margin-right: auto;
   }
   
+  .google_form {
+    width: 400px;
+  }
+
+  .hotel_link_div {
+    display: flex;
+  }
+
   footer {
     position: relative;
     padding: 0;

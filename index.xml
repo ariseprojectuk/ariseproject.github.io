@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ARISE</title><link>/</link><description>Recent content on ARISE</description><generator>Hugo</generator><language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>&lt;!DOCTYPE html>
 &lt;html>
 &lt;body>
-&lt;h1 id="about-us">About us&lt;/h1>
-&lt;br>
-&lt;!--&lt;h3 id="maker-arts-cic-is-a-community-interest-company-based-in-the-heart-of-paignton-torbay-">Maker Arts CIC is a community interest company based in the heart of Paignton, Torbay.&lt;/h3>
-&lt;p>We offer small groups of students aged 9-16 bespoke courses in mindfulness, employability, art and science. &lt;/p>
-&lt;br>
-&lt;div class="aims">
-&lt;h3>&lt;strong>Our aims:&lt;/strong>&lt;/h3>
-&lt;p>To develop &lt;strong>confidence&lt;/strong>&lt;/p>
-&lt;p>Facilitate &lt;strong>well-being&lt;/strong>&lt;/p>
-&lt;p>Encourage &lt;strong>aspirations&lt;/strong>&lt;/p>
-&lt;/div>
-&lt;br>
-&lt;p>We are particularly interested in supporting those that are anxious, phobic or otherwise disadvantaged. &lt;/p>
-&lt;p>Our end goal is to encourage these students back into the classroom. &lt;/p></description></item><item><title>About</title><link>/old_about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/old_about/</guid><description>&lt;h1 id="about-us">About us&lt;/h1>
+ &lt;div>
+ &lt;img src="/what_arise_but.svg">
+ &lt;h2>ARISE means Artistic Recognition for Inpiring Success and Excellence&lt;/h2>
+ &lt;h3>- we're talking about you!&lt;/h3>
+ &lt;br>
+ &lt;/div>
+ &lt;div class="column">
+ &lt;div class="about_img">
+ &lt;div class="content_left">
+ &lt;h3>We are so excited to join you in your screate journey and want to celebrate your wonderful work with the recognition you deserve.&lt;/h3>
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="content_right">
+ &lt;h3>ARISE is the flagship programme of Maker Arts CIC and is designed for creative people to experience and apply themselves to different projects and be rewarded for their efforts and help charitable causes.&lt;/h3>
+ &lt;/div>
+ &lt;/div>
+&lt;/body>
+&lt;/html></description></item><item><title>About</title><link>/old_about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/old_about/</guid><description>&lt;h1 id="about-us">About us&lt;/h1>
 &lt;h3 id="maker-arts-cic-is-a-community-interest-company-based-in-the-heart-of-paignton-torbay">Maker Arts CIC is a community interest company based in the heart of Paignton, Torbay.&lt;/h3>
 &lt;p>We offer small groups of students aged 9-16 bespoke courses in mindfulness, employability, art and science.&lt;/p>
 &lt;p>Our aims:&lt;/p>
@@ -25,34 +29,7 @@
 &lt;p>Our end goal is to encourage these students back into the classrom.&lt;/p>
 &lt;h2 id="meet-the-team">Meet the team&lt;/h2>
 &lt;h3 id="sue">Sue&lt;/h3>
-&lt;p>Something about sue&lt;/p></description></item><item><title>Contact</title><link>/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/contact/</guid><description>&lt;div>
-&lt;h1 id="contact">Contact&lt;/h1>
-&lt;br>
-&lt;h3 id="phone">Phone&lt;/h3>
-&lt;p>Sue - &lt;a href=tel:07783412517> 07783412517&lt;/a> &lt;/p>
-&lt;h3 id="email">Email&lt;/h3>
-&lt;p>sue@makerarts.co.uk&lt;/p>
-&lt;h3 id="find-us">Find us&lt;/h3>
-&lt;p>1 Parkside Road&lt;/p>
- &lt;p>Paignton&lt;/p>
- &lt;p>Devon&lt;/p>
- &lt;p>TQ4 6AE&lt;/p>
-&lt;br>
-&lt;!--&lt;div class="page-content__justify-left">
-&lt;iframe src="https://www.google.com/maps/d/u/1/embed?mid=1urgiEU6pYwlNPZh0aTzfc59f-EEzbII&amp;ehbc=2E312F" width="100%" height="450" style="border:2px solid black; border-radius: 15px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">&lt;/iframe>
-&lt;/div>
-&lt;div class="page-content__justify-right">
- &lt;img src="/Maker_building_outlined.png">
-&lt;/div>-->
-&lt;div class="two-columns">
- &lt;div>
- &lt;iframe class="two-columns_phone"src="https://www.google.com/maps/d/u/1/embed?mid=1urgiEU6pYwlNPZh0aTzfc59f-EEzbII&amp;ehbc=2E312F" height="450px" style="border:2px solid black; border-radius: 15px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">&lt;/iframe>
- &lt;/div>
- &lt;div>
- &lt;img src="/Maker_building_outlined.png" style="object-fit:cover; padding-left: 0px; height: 450px; border:2px solid black; border-radius: 15px;">
- &lt;/div>
-&lt;/div>
-&lt;/div></description></item><item><title>Contact</title><link>/old_contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/old_contact/</guid><description>&lt;h1 id="contact">Contact&lt;/h1>
+&lt;p>Something about sue&lt;/p></description></item><item><title>Contact</title><link>/old_contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/old_contact/</guid><description>&lt;h1 id="contact">Contact&lt;/h1>
 &lt;h3 id="phone">Phone&lt;/h3>
 &lt;p>Sue - 07858623525&lt;/p>
 &lt;h3 id="email">Email&lt;/h3>
@@ -77,7 +54,9 @@
 &lt;p>&lt;strong>Discover&lt;/strong>: An introductory award aimed at young people under 25&lt;/p>
 &lt;p>&lt;strong>Bronze&lt;/strong>: The Bronze Arts Award is a Level 1 qualification on the Regulated Qualifications Framework (RQF) and is open to young people aged 11 to 25.&lt;/p>
 &lt;p>&lt;strong>Silver&lt;/strong>: The Silver Arts Award is a Level 2 qualification on the Regulated Qualifications Framework (RQF) and is designed for ages 14 and above, but is open to young people aged 11 to 25.&lt;/p></description></item><item><title>Courses</title><link>/print/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/print/</guid><description>&lt;img src="\printLogo.jpeg" alt="Printing Works Logo">
-&lt;img src="\soon.png" alt="Printing Works Logo"></description></item><item><title>Privison</title><link>/provision/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/provision/</guid><description>&lt;body>
+&lt;img src="\soon.png" alt="Printing Works Logo"></description></item><item><title>How</title><link>/how/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/how/</guid><description>&lt;div>
+&lt;img src="/what_do_but.svg">
+&lt;/div></description></item><item><title>Privison</title><link>/provision/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/provision/</guid><description>&lt;body>
 &lt;h1>Our Provisions&lt;/h1>
 &lt;br>
 &lt;div class="three-columns-1" style="column-gap: 40px; height: 100%;">

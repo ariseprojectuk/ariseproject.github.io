@@ -69,6 +69,7 @@ a:hover {
   h1 {padding: 40px;}
   h1 {border-radius: 20px;}*/
   h2 {padding-top: 20px;}
+  h1 {margin: 30px; padding:20px; background-color: #b37ee7; border-radius: 15px; border: 2px solid #000 ;}
 }
 
 .employ {
@@ -143,6 +144,20 @@ a:hover {
   height: 400px;
   background-repeat: no-repeat;
   background-size: contain;
+}
+
+.content_left2 {
+  max-width: 50%;
+  height: auto;
+  align-content: flex-start;
+  transform: translate(20%, -5%);
+}
+
+.content_right2 {
+  width: 40%;
+  align-content: flex-end;
+  text-align: center;
+  transform: translate(30%, -25%);
 }
 
 //Modal

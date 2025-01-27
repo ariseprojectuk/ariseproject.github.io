@@ -160,6 +160,32 @@ a:hover {
   transform: translate(30%, -25%);
 }
 
+.content_left3 {
+  width: 50%;
+  height: auto;
+  align-content: flex-start;
+  //transform: translate(20%, -5%);
+}
+
+.content_right3 {
+  width: 50%;
+  align-content: flex-end;
+  text-align: center;
+  //transform: translate(30%, -25%);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  gap: 30px;
+  padding: 20px;
+}
+
 //Modal
 
 /* Add animation (Chrome, Safari, Opera) */
